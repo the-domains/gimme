@@ -1,0 +1,14 @@
+layout_spectrum: 0.6604010241571814
+typography_spectrum: 0.15300577506422997
+color:
+  brandStrength: 0.7694946785923094
+  lightness: 0.8651885590516031
+  saturation: 0.28700932185165584
+  rhythmicContrast: 0.8942528748884797
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+name: gimme
